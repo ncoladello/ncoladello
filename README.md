@@ -1,6 +1,6 @@
 # :man_technologist: Natanael Coladello
 
-🎓 Recent Technologist in Systems Analysis and Development graduate from FATEC - PRESIDENTE PRUDENTE/SP
+🎓 Technologist in Systems Analysis and Development graduate from FATEC - PRESIDENTE PRUDENTE/SP
 - Mobile Developer
 - IT Analyst
 
